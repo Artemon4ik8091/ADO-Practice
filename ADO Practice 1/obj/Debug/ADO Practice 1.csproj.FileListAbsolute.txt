@@ -1,0 +1,28 @@
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\ADO Practice 1.exe.config
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\ADO Practice 1.exe
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\ADO Practice 1.pdb
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\MySql.Data.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\ZstdNet.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\System.Memory.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\System.Buffers.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\bin\Debug\MySql.Data.xml
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.exe.config
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO_Practice_1.AddCategory.resources
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO_Practice_1.AddGoods.resources
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO_Practice_1.EditCategory.resources
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO_Practice_1.EditGoods.resources
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO_Practice_1.Form1.resources
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO_Practice_1.Properties.Resources.resources
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.csproj.CopyComplete
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.exe
+C:\Users\User\Source\Repos\ADO-Practice-2\ADO Practice 1\obj\Debug\ADO Practice 1.pdb
